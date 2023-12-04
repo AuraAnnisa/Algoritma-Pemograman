@@ -7,16 +7,16 @@ Mahasiswa : Aura Annisa Cahaya (23343069)
 
 # Jobsheets #
 <list>
-  <li><a href="Jobsheet 1 - Pengantar Algoritma dan Pemrograman">Jobsheet 1 - Pengantar Algoritma dan Pemrograman</a></li>
-  <li><a href="Jobsheet 2 - Pemrograman Dasar C">Jobsheet 2 - Pemrograman Dasar C</a></li>
-  <li><a href="Jobsheet 3 - Variabel, Konstanta dan Tipe Data">Jobsheet 3 - Variabel, Konstanta dan Tipe Data</a></li>
-  <li><a href="Jobsheet 4 - Operator">Jobsheet 4 - Operator</a></li>
-  <li><a href="Jobsheet 5 - Flow Control (Decision Making)">Jobsheet 5 - Flow Control (Decision Making)</a></li>
-  <li><a href="Jobsheet 6 - Flow Control (Looping)">Jobsheet 6 - Flow Control (Looping)</a></li>
-  <li><a href="Jobsheet 7 - Array">Jobsheet 7 - Array</a></li>
-  <li><a href="Jobsheet 8 - Fungsi dan Prosedur">Jobsheet 8 - Fungsi dan Prosedur</a></li>
-  <li><a href="Jobsheet 9 - Pointer">Jobsheet 9 - Pointer</a></li>
-  <li><a href="Jobsheet 10 - Enumerasi dan Structure">Jobsheet 10 - Enumerasi dan Structure</a></li>
- <li><a href="Jobsheet 11 - File Handling in C">Jobsheet 11 - File Handling in C</a></li>
+  <li><a href="Jobsheet 1 - Pengantar Algoritma dan Pemrograman">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%201--Aura%20Annisa%20Cahaya%20(23343060))
+  <li><a href="Jobsheet 2 - Pemrograman Dasar C">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%202--Aura%20Annisa%20Cahaya%20(23343060))
+  <li><a href="Jobsheet 3 - Variabel, Konstanta dan Tipe Data">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%203--Aura%20Annisa%20Cahaya%20(23343060))
+  <li><a href="Jobsheet 4 - Operator">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%204--Aura%20Annisa%20Cahaya%20(23343060))
+  <li><a href="Jobsheet 5 - Flow Control (Decision Making)">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%205--Aura%20Annisa%20Cahaya%20(23343060))
+  <li><a href="Jobsheet 6 - Flow Control (Looping)">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%206--Aura%20Annisa%20Cahaya%20(23343060))
+  <li><a href="Jobsheet 7 - Array">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%207--Aura%20Annisa%20Cahaya%20(23343060))
+  <li><a href="Jobsheet 8 - Fungsi dan Prosedur">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%208--Aura%20Annisa%20Cahaya%20(23343060))
+  <li><a href="Jobsheet 9 - Pointer">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%209--Aura%20Annisa%20Cahaya%20(23343060))
+  <li><a href="Jobsheet 10 - Enumerasi dan Structure">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%2010--Aura%20Annisa%20Cahaya%20(23343060))
+ <li><a href="Jobsheet 11 - File Handling in C">(https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%2011--Aura%20Annisa%20Cahaya%20(23343060))
 </list>
 
