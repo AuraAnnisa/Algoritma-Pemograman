@@ -2,7 +2,7 @@
 Bagian ini berfungsi untuk menjelaskan part dari jobsheets Algoritma Pemograman yang telah diberikan oleh dosen pengampu. Penjelasan terdapat pada link tertera dibawah.
 
 Dosen : Randi Proska Sandra, M.Sc<br>
-Seksi kelas : INF1.62.1008<br>
+Sesi kelas : INF1.62.1008<br>
 Mahasiswa : Aura Annisa Cahaya (23343069)
 
 # Jobsheets #
