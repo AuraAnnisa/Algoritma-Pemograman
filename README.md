@@ -90,8 +90,8 @@ menjadi referensi dari pointer.
 
   Structure adalah kumpulan dari beberapa variabel dengan beragam tipe data dalam satu varabel. Penggunaan struct dapat dipakai dengan format 'struct yang kemudian akan diikuti dengan nama struct dan isi.
 
-  User dapat menggunakan typedef pada struct yang akan mendefinisikan tipe data baru. Struct dapat dibuat bersarang yang artinya ada struct di dalam 
-struct lainnya.
+  User dapat menggunakan typedef pada struct yang akan mendefinisikan tipe data baru. Struct dapat dibuat bersarang yang artinya ada struct di dalam struct lainnya.
+  
 11. [Jobsheet 11 - File Handling in C](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%2011--Aura%20Annisa%20Cahaya%20(23343060))<br>
 
   File dalam komputer terbagi atas file teks dan binary. Fungsi yang berfungsi membuka file dalam C adalah fopen() dengan contoh     
