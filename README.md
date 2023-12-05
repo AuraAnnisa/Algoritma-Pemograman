@@ -56,9 +56,48 @@ untuk mengubah jalur eksekusi normal melalui program. Decision Making dapat beru
 
   Uncounted loop pada C adalah while dan do while. While merupakan perulangan yang memberikan counter selama variabel ulang bernilai y. Sementara do while akan melakukan 1 kali perulangan terlebih dahulu lalu menuju perulangan pada while, berbeda pada program yang hanya memiliki while saja. Nested loop adalah perulangan dalam perulangan yang menggunakan variabel i sebagai counter dann j sebagai counter secara berurutan.
   
-[Jobsheet 7 - Array](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%207--Aura%20Annisa%20Cahaya%20(23343060))<br>
-[Jobsheet 8 - Fungsi dan Prosedur](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%208--Aura%20Annisa%20Cahaya%20(23343060))<br>
-[Jobsheet 9 - Pointer](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%209--Aura%20Annisa%20Cahaya%20(23343060))<br>
-[Jobsheet 10 - Enumerasi dan Structure](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%2010--Aura%20Annisa%20Cahaya%20(23343060))<br>
-[Jobsheet 11 - File Handling in C](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%2011--Aura%20Annisa%20Cahaya%20(23343060))<br>
+7. [Jobsheet 7 - Array](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%207--Aura%20Annisa%20Cahaya%20(23343060))<br>
+
+  Array berfungsi menyimpan banyak data didalam program dalam satu tempat yang mana setiap data tersebut akan memiliki indeks. Indeks array akan dimulai dari nol dan ukurannya bergantung pada banyak data yang ditampung. Dalam program ukuran array ditentukan dengan kurung siku [].
+
+  User dapat melakukan perulangan pada array dengan menggunakan perulangan dasar seperti for yang akan mencetak keseluruhan nilai dengan satu baris kode yang berada dalam blok perulangan for. User juga dapat mengambil panjang array menggunakan sizeof() yang akan mengambil ukuran memori dari array.
+
+    Array multidimensi merupakan array yang memiliki dua dimensi atau lebih. Pengambilan nilai dari array ini dapat menggunakan string yang dapat berformat seperti strcpy() yang berfungsi untuk mengkopi string, strcat() yang digunakan untuk menambahkan string dari belakang, strlen() yang berfungsi menghitung panjang string, dan strcmp() yang membandingkan dua string.
+    
+8. [Jobsheet 8 - Fungsi dan Prosedur](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%208--Aura%20Annisa%20Cahaya%20(23343060))<br>
+
+  Fungsi adalah sub-program yang bisa digunakan kembali baik di dalam 
+program itu sendiri, maupun di program yang lain. Fungsi biasanya mengembalikan nilai dari hasil prosesnya dan user harus menentukan tipe data yang akan dikembalikan oleh fungsi. Jika fungsi tidak memiliki nilai kembalian maka user dapat menggunakan fungsi void.
+
+Ada fungsi denngan parameter yang akan menyimoan nilai yang akan diinputkan, apabila terdapat lebih dari satu parameter, dapat dipisahkan dengan koma. Jika terdapat fungsi yang tidak memiliki nilai kembalian, maka ada fungsi yang mengembalikan nilai yang berfungsi agar dapat diproses pada tahap berikutnya. Return disini berfungsi untuk mengembalikan nilai fungsi. Fungsi rekrusif adalah fungsi yang dapat memanggil dirinya sendiri.
+
+  Selain fungsi, jobsheet ini juga mempelajari variabel yang terdiri atas variabel global dan lokal. Variabel global adalah variabel yang dapat diakses oleh semua fungsi sementara variabel lokal adalah variabel yang hanya dapat diakses oleh fungsi yang menaunginya. Terdapat juga Pass by value dan pass by reference yang merupakan cara untuk memberikan nilai pada 
+paramaeter.
+
+9. [Jobsheet 9 - Pointer](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%209--Aura%20Annisa%20Cahaya%20(23343060))<br>
+
+  Pointer adalah sebuah variabel yang berisi alamat memori dari variabel yang lain. Pointer disimbolkan dengan simbol asterik (*) yang kemudiakn akan diisi dengan alamat memori. Alamat memori yang digunakan sebagai referensi pada pointer akan sama dengan alamat memori dari variabel yang dipakai sebagai referensi. 
+
+ Apabila ingin melihat alamat memori dari pointer, maka user harus menginputkan simbol &. Perbedaan alamat memori dengan alamat referensi adalah Alamat memori pointer adalah alamat memori yang digunakan untuk 
+menyimpan pointer, sedangkan alamat referensi adalah alamat yang akan 
+menjadi referensi dari pointer.
+
+  Sebenarnya, penggunaan pointer tidaklah wajib, kelebihan dari program yang menggunakan pointer adalah peforma program dengan pointer akan lebih optimal dibanding program yang tidak menggunakannya. 
+
+10. [Jobsheet 10 - Enumerasi dan Structure](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%2010--Aura%20Annisa%20Cahaya%20(23343060))<br>
+
+  Enum  merupakan tipe data yang berisi sekumpulan konstanta, yang termasuk dalam tipe data bentukan. Apabila user tidak menginputkan nilai konstanta pada enum, maka program akan mengisi enum mengikuti urutan penulisannya. Enum memberikan fleksibilitas dalam penggunaan memori karena variabel enum hanya mengambil satu nilai dari konstanta. 
+
+  Structure adalah kumpulan dari beberapa variabel dengan beragam tipe data dalam satu varabel. Penggunaan struct dapat dipakai dengan format 'struct yang kemudian akan diikuti dengan nama struct dan isi.
+
+  User dapat menggunakan typedef pada struct yang akan mendefinisikan tipe data baru. Struct dapat dibuat bersarang yang artinya ada struct di dalam 
+struct lainnya.
+11. [Jobsheet 11 - File Handling in C](https://github.com/AuraAnnisa/Algoritma-Pemograman/tree/main/Jobsheet%2011--Aura%20Annisa%20Cahaya%20(23343060))<br>
+
+  File dalam komputer terbagi atas file teks dan binary. Fungsi yang berfungsi membuka file dalam C adalah fopen() dengan contoh     
+                      fopen("filepath", "r");  
+  
+  Fungsi ini menghasilkan pointer yang menunuk ke alamat memori dari file yang akan dibuka. Apabila terdapat banyak baris dalam file tersebut, user disarankan menggunakan input perulangan untuk menciptakan baris program yang lebih rapi.
+
+  Untuk menulis file, C akan menggunakan fputs(). Ada berbagai fungsi file handling dalam bahasa program selain yang disebutkan, seperti fread() dan fwrite().
 
